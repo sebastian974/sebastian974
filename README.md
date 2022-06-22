@@ -56,6 +56,6 @@
 <br/>
 
 
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/sebastian-marshall-martinez-bellido-6a5207243/
 
 
