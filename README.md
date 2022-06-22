@@ -4,10 +4,10 @@
 
 ## I'm a Telecommunications Engineering Student  
 
-- 👨‍💻 I’m currently studying at the National University of San Agustin 
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently studying at the National University of San Agustin. 
+- 📚 I’m currently learning about Data Science.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play soccer.
 
 ---
 
