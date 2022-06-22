@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian974)](https://github.com/Sebastian974/github-readme-stats)
 <br/>
 
 ---
@@ -45,9 +45,8 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sebastian974&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian974&theme=react&line_height=40&hide=css"/>
