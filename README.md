@@ -45,7 +45,7 @@
 
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian974)](https://github.com/Sebastian974/github-readme-stats" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian974&theme=react&line_height=40&hide=css"/>
