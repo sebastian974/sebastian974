@@ -15,7 +15,7 @@
 ### LinkedIN📝
 <a href="https://www.linkedin.com/in/sebastian-marshall-martinez-bellido-6a5207243/">
       <img align="center" alt="LinkedIn" width="35px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
-</a><---CLICK HERE!
+</a>
 
 ---
 
